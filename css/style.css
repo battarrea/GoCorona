@@ -922,7 +922,8 @@ body {
 		display: block;
 	}
 	.block-video__video {
-		width: 100%;
+		/*width: 100%;*/
+		display: none;
 	}
 /*=================healthcare===============*/
 	.healthcare {
